@@ -1,2 +1,5 @@
-# Splint-Grabber
-Grab Discord Token, Phone Number, E-mail and HQ Friends. Discord Injection. Grab Browser cookies &amp; passwords. Grab specials files. Grab Crypto Wallets.
+# Splint Grabber
+
+
+![my-image (3)](https://github.com/us0y/Splint-Grabber/assets/130321653/94f61024-11c5-4ebd-945c-2087b969bb9d)
+
