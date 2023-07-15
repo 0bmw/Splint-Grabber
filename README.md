@@ -42,3 +42,9 @@ And after installed `python -m auto_py_to_exe`
 
 Browse file Select `One file and Windows Based (hide the console)`
 
+![pyy](https://github.com/us0y/Splint-Grabber/assets/130321653/c3012514-acf5-4b1d-81aa-3462bcf0c922)
+
+And press `.py convert .exe`
+
+
+
